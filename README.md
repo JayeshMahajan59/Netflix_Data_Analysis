@@ -174,7 +174,8 @@ Content Strategy: The genre insights can inform content acquisition and producti
 
 
 
-## User Engagement: Knowledge of the latest releases enables Netflix to promote new content effectively, potentially boosting user engagement and retention.
+## User Engagement:
+Knowledge of the latest releases enables Netflix to promote new content effectively, potentially boosting user engagement and retention.
 
 
 
